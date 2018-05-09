@@ -1,0 +1,37 @@
+{
+  "name": "async-af",
+  "homepage": "https://async-af.js.org",
+  "authors": [
+    "Scott Rudiger (https://github.com/ScottRudiger)"
+  ],
+  "description": "(DEPRECATED ON BOWER) use npm to install async-af or see README for more options (https://github.com/AsyncAF/bower-deprecated)",
+  "main": "install.js",
+  "keywords": [
+    "AsyncAF",
+    "async-af",
+    "async",
+    "await",
+    "async/await",
+    "Promise",
+    "library",
+    "array",
+    "method",
+    "methods",
+    "map",
+    "forEach",
+    "reduce",
+    "filter",
+    "every",
+    "some",
+    "includes",
+    "find",
+    "findIndex",
+    "indexOf",
+    "lastIndexOf",
+    "join",
+    "pop",
+    "shift",
+    "splice"
+  ],
+  "license": "MIT"
+}
